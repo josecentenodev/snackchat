@@ -1,0 +1,15 @@
+{
+  "name": "snackchat",
+  "version": "1.0.0",
+  "description": "small pieces of chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "chat"
+  ],
+  "author": "devcito",
+  "license": "ISC"
+}
